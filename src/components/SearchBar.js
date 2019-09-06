@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import axios from '../api/youtube';
 
 class SearchBar extends Component {
   state = {
@@ -15,7 +14,7 @@ class SearchBar extends Component {
 
   onFormSubmit = event => {
     event.preventDefault();
-    //TOOD: callback from parent component
+    this.props.onFormSubmit(this.state.term); //triggering the API query request
   };
 
   render() {
