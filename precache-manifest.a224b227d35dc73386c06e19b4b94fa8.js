@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3277bfc7369083574c7239b734e93a87",
+    "revision": "4a7a353a1d48f7f4b036d8c667824135",
     "url": "/videotube/index.html"
   },
   {
-    "revision": "7fbb6bedafeea8b24b18",
+    "revision": "6c1cd6342da75cd2009b",
     "url": "/videotube/static/css/main.4a966e5b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/videotube/static/js/2.f61fc0d8.chunk.js"
   },
   {
-    "revision": "7fbb6bedafeea8b24b18",
-    "url": "/videotube/static/js/main.2fe3c942.chunk.js"
+    "revision": "6c1cd6342da75cd2009b",
+    "url": "/videotube/static/js/main.e7bc5363.chunk.js"
   },
   {
     "revision": "ae43184fc5f965db5930",
