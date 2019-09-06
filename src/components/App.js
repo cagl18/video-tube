@@ -11,7 +11,7 @@ class App extends Component {
   };
 
   componentDidMount() {
-    this.onSearchVideos('buildings');
+    this.onSearchVideos('coral reefs');
   }
 
   onSearchVideos = async term => {
