@@ -2,6 +2,7 @@
   "name": "video-tube",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://cagl18.github.io/videotube",
   "dependencies": {
     "axios": "^0.18.1",
     "react": "^16.9.0",
